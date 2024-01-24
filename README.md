@@ -11,7 +11,7 @@ No installation is required. To get started, simply clone the repository and ope
 
 
 Copy code
-git clone https://github.com/[your-username]/color-flipper.git
+git clone https://github.com/julenhopp/color-flipper.git
 ## Usage
 Upon loading the application, you'll see a color displayed and two buttons: 'Simple' and 'Hex'.
 
